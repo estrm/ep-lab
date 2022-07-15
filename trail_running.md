@@ -1,5 +1,10 @@
 # Trail Running
 
+## Improve
+ 
+- [ ] VO2MAX, 59 currently
+- [ ] Cadence, aim to 180
+
 ## 下坡技术
 
 1. 脚掌落地离重心越近越好。膝盖微弯，步幅缩小、步频加快，透过增加踏点来控制速度。
